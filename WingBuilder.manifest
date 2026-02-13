@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "author": "Brian Sistarelli",
+  "description": {
+    "": "WingBuilder: Create wings and winglets from multiple airfoil .dat files with spanwise stations, planform, twist, sweep, dihedral, tip treatments, and optional guide-rail lofting."
+  },
+  "version": "0.1.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac",
+  "editEnabled": true,
+  "iconFilename": "AddInIcon.svg"
+}
