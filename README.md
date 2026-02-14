@@ -91,27 +91,26 @@ If you don’t know what to pick yet, these values generally produce a “reason
 Key Concepts (Plain English)
 ----------------------------
 
-Stations
+
   A “station” is a cross-section slice of the wing at some span position.
   More stations = the loft follows your intended shape more closely.
 
-Chord
+
   Chord is the “front-to-back” length of the airfoil at a station.
   A wing that tapers has a smaller chord at the tip than at the root.
 
-Sweep
+
   Sweep moves the wing backward (or forward) along the span.
   The tool supports kinked sweep (different inner/outer angles with a break point).
 
-Dihedral
+
   Dihedral tilts the wing upward as it goes outboard. This often improves roll stability.
 
-Twist
+
   Twist rotates each station’s airfoil around an axis (often quarter-chord).
   Typical use: washout (tip has less angle than root) to soften tip stall.
 
-MAC (Mean Aerodynamic Chord)
-  The script prints MAC and its location, useful for CG and aerodynamic calculations.
+  MAC (Mean Aerodynamic Chord)  The script prints MAC and its location, useful for CG and aerodynamic calculations.
 
 
 Parameter Guide
